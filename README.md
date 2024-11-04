@@ -47,8 +47,8 @@ npm install
 
 # Start the server
 npm start
-
-Deployment
+```
+### 4. Deployment
 This API is deployed on Railway and can be accessed at the following URL:
 
 API Base URL: https://medicationsapi-production.up.railway.app/
